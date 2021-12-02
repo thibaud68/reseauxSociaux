@@ -1,0 +1,1 @@
+Ceci est un exercice de javascript pour animer de liens vers les réseaux sociaux
